@@ -1,1 +1,2 @@
-# Cse470
+# Admission portal
+Software project
